@@ -1,0 +1,118 @@
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+header{
+    height: 84px;
+    border-bottom: 2px solid #c81523;
+}
+.logo{
+    padding-top: 18px;
+}
+.redisterarea{
+    height: 521px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.redisterarea h3{
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    line-height: 42px;
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.redisterarea h3 .login{
+    float: right;
+    font-size: 15px;
+}
+.redisterarea h3 .login a{
+    color: #c81523;
+}
+.reg_form{
+    width: 600px;
+    
+    margin: 55px auto 0;
+}
+.reg_form ul li{
+    margin-bottom: 20px;
+}
+.reg_form ul li label{
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+}
+.reg_form ul li .inp{
+    width: 242px;
+    height: 37px;
+    border: 1px solid #ccc;
+}
+.error{
+    color: #c81523;
+}
+.error_icon{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-top: -2px;
+    background: url(../images/error.png) no-repeat;
+}
+.success{
+    color: green;
+}
+.success_icon{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-top: -2px;
+    background: url(../images/success.png) no-repeat;
+
+}
+.safe{
+    padding-left: 154px;
+}
+.safe em{
+    padding: 0 12px;
+    color: #000;
+    
+}
+.a{
+    background-color: #c81523;
+ }
+.b{
+    background-color: orange;
+}
+.c{
+    background-color: green;
+}
+.agree{
+    padding-left: 90px;
+}
+.agree input{
+    vertical-align: middle;
+}
+.skybule{
+    color: skyblue;
+}
+.btn{
+    width: 200px;
+    height: 30px;
+    background-color: #c81523;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.copyright{
+    line-height: 20px;
+}
+.mod_copyright{
+    text-align: center;
+    margin-top: 20px;
+}
+.link{
+    margin-bottom: 15px;
+}
